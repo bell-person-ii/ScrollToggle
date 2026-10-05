@@ -1,6 +1,10 @@
-# ScrollToggle
+<p align="center">
+  <img src="icon/AppIcon.svg" width="128" height="128" alt="ScrollToggle 앱 아이콘">
+</p>
 
-마우스를 연결하면 자연스러운 스크롤을 끄고, 빼면 다시 켜 주는 macOS 메뉴 막대 앱입니다.
+<h1 align="center">ScrollToggle</h1>
+
+<p align="center">마우스를 연결하면 자연스러운 스크롤을 끄고, 빼면 다시 켜 주는 macOS 메뉴 막대 앱입니다.</p>
 
 macOS에서는 트랙패드와 마우스의 스크롤 방향이 설정 하나로 묶여 있습니다. 그래서 트랙패드는 자연스러운 스크롤로, 마우스 휠은 반대 방향으로 쓰고 싶으면 마우스를 꽂고 뺄 때마다 시스템 설정에 들어가야 합니다. ScrollToggle은 이 전환을 자동으로 해 줍니다.
 
