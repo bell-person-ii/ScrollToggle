@@ -1,87 +1,61 @@
-ScrollToggle 라이선스
+Required Notice: Copyright 2026 bell-person-ii (https://github.com/bell-person-ii/ScrollToggle)
 
-Copyright (c) 2026 bell-person-ii. All rights reserved.
+# PolyForm Strict License 1.0.0
 
-이 저장소의 소스 코드, 아이콘, 빌드 스크립트를 포함한 모든 파일(이하
-"소프트웨어")은 누구나 볼 수 있도록 공개되어 있지만, 오픈 소스 라이선스로
-배포되는 것은 아닙니다. 저작권자는 아래 조건에 따라서만 사용을 허락합니다.
+<https://polyformproject.org/licenses/strict/1.0.0>
 
-1. 허용
+## Acceptance
 
-   - 소프트웨어를 내려받아 빌드하고 본인이 사용하는 것
-   - 본인이 사용할 목적으로 소프트웨어를 수정하는 것
+In order to get any license under these terms, you must agree to them as both strict obligations and conditions to all your licenses.
 
-2. 금지
+## Copyright License
 
-   저작권자의 사전 서면 허락 없이는 다음 행위를 할 수 없습니다.
+The licensor grants you a copyright license for the software to do everything you might do with the software that would otherwise infringe the licensor's copyright in it for any permitted purpose, other than distributing the software or making changes or new works based on the software.
 
-   - 소프트웨어 또는 이를 수정한 것을 소스 코드나 빌드된 앱 형태로
-     재배포, 게시, 판매, 대여, 양도하는 것
-   - 소프트웨어의 전부 또는 일부를 다른 제품이나 서비스에 넣어 배포하는 것
+## Patent License
 
-3. GitHub에서의 포크와 기여
+The licensor grants you a patent license for the software that covers patent claims the licensor can license, or becomes able to license, that you would infringe by using the software.
 
-   GitHub 이용약관이 허용하는 범위에서 GitHub 안에서 이 저장소를 보고
-   포크하는 것은 이 라이선스가 막지 않습니다. 이 저장소에 풀 리퀘스트로
-   기여할 목적으로 포크에 수정 사항을 올리는 것도 허용됩니다. 포크한
-   저장소에도 이 라이선스가 그대로 적용됩니다.
+## Noncommercial Purposes
 
-4. 보증의 부인
+Any noncommercial purpose is a permitted purpose.
 
-   소프트웨어는 어떠한 보증도 없이 "있는 그대로" 제공됩니다. 저작권자는
-   소프트웨어의 사용 또는 사용 불능으로 생긴 어떠한 손해에도 책임지지
-   않습니다. 소프트웨어는 macOS의 비공개 API를 사용하므로 macOS 업데이트에
-   따라 동작하지 않을 수 있습니다.
+## Personal Uses
 
-5. 그 밖의 권리
+Personal use for research, experiment, and testing for the benefit of public knowledge, personal study, private entertainment, hobby projects, amateur pursuits, or religious observance, without any anticipated commercial application, is use for a permitted purpose.
 
-   이 라이선스에 명시적으로 허락되지 않은 모든 권리는 저작권자에게 있습니다.
+## Noncommercial Organizations
 
-이 라이선스의 한국어 본문과 아래 영어 번역이 다를 경우 한국어 본문이
-우선합니다.
+Use by any charitable organization, educational institution, public research organization, public safety or health organization, environmental protection organization, or government institution is use for a permitted purpose regardless of the source of funding or obligations resulting from the funding.
 
-------------------------------------------------------------------------------
+## Fair Use
 
-ScrollToggle License (English translation)
+You may have "fair use" rights for the software under the law. These terms do not limit them.
 
-Copyright (c) 2026 bell-person-ii. All rights reserved.
+## No Other Rights
 
-All files in this repository, including source code, icons, and build scripts
-(the "Software"), are publicly viewable but are NOT released under an open
-source license. The copyright holder permits use only under these terms.
+These terms do not allow you to sublicense or transfer any of your licenses to anyone else, or prevent the licensor from granting licenses to anyone else.  These terms do not imply any other licenses.
 
-1. Permitted
+## Patent Defense
 
-   - Downloading, building, and using the Software yourself.
-   - Modifying the Software for your own use.
+If you make any written claim that the software infringes or contributes to infringement of any patent, your patent license for the software granted under these terms ends immediately. If your company makes such a claim, your patent license ends immediately for work on behalf of your company.
 
-2. Prohibited
+## Violations
 
-   Without the copyright holder's prior written permission, you may not:
+The first time you are notified in writing that you have violated any of these terms, or done anything with the software not covered by your licenses, your licenses can nonetheless continue if you come into full compliance with these terms, and take practical steps to correct past violations, within 32 days of receiving notice.  Otherwise, all your licenses end immediately.
 
-   - Redistribute, publish, sell, rent, or transfer the Software or any
-     modified version of it, in source or built-app form.
-   - Include all or part of the Software in another product or service that
-     is distributed.
+## No Liability
 
-3. Forks and contributions on GitHub
+***As far as the law allows, the software comes as is, without any warranty or condition, and the licensor will not be liable to you for any damages arising out of these terms or the use or nature of the software, under any kind of legal claim.***
 
-   This license does not restrict viewing or forking this repository within
-   GitHub to the extent the GitHub Terms of Service allow. Pushing changes to
-   a fork in order to contribute them back to this repository through a pull
-   request is also permitted. Forks remain subject to this license.
+## Definitions
 
-4. Disclaimer of warranty
+The **licensor** is the individual or entity offering these terms, and the **software** is the software the licensor makes available under these terms.
 
-   The Software is provided "as is", without warranty of any kind. The
-   copyright holder is not liable for any damages arising from the use of, or
-   inability to use, the Software. The Software relies on private macOS APIs
-   and may stop working after a macOS update.
+**You** refers to the individual or entity agreeing to these terms.
 
-5. Reserved rights
+**Your company** is any legal entity, sole proprietorship, or other kind of organization that you work for, plus all organizations that have control over, are under the control of, or are under common control with that organization.  **Control** means ownership of substantially all the assets of an entity, or the power to direct its management and policies by vote, contract, or otherwise.  Control can be direct or indirect.
 
-   All rights not expressly granted by this license are reserved by the
-   copyright holder.
+**Your licenses** are all the licenses granted to you for the software under these terms.
 
-If the Korean text and this English translation differ, the Korean text
-prevails.
+**Use** means anything you do with the software requiring one of your licenses.
